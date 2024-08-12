@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inoj-hettiarachchi" alt="inoj-hettiarachchi" /></a> </p>
 
-- 🔭 I’m currently working at 99x [(https://99x.io/)]
+- 🔭 I’m currently working at 99x https://99x.io
 
 - 🌱 I’m currently working with React Native, React.JS, Node.JS, AWS
 
