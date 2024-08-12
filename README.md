@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inoj-hettiarachchi" alt="inoj-hettiarachchi" /></a> </p>
 
-- 🔭 I’m currently working on [Attendify - RFID Attendance Management System](https://github.com/Sathurshanan-Manoharan/attendify-frontend)
+- 🔭 I’m currently working at 99x [(https://99x.io/)]
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working with React Native, React.JS, Node.JS, AWS
 
-- 🤝 I’m looking for help with **Internship opportunities**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-inojh.netlify.app/](https://myportfolio-inojh.netlify.app/)
+- 👨‍💻 All of my personal projects are available at [https://myportfolio-inojh.netlify.app/](https://myportfolio-inojh.netlify.app/)
 
 - 📫 How to reach me **inojhettiarachchi@gmail.com**
 
